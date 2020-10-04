@@ -5,88 +5,88 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20201004003000 -0500" stop="20201004013000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004003000 +0200" stop="20201004013000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">El show de la Copa Libertadores</title>
   </programme>
-  <programme start="20201004013000 -0500" stop="20201004020000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004013000 +0200" stop="20201004020000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Review</title>
   </programme>
-  <programme start="20201004020000 -0500" stop="20201004040000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004020000 +0200" stop="20201004040000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">La era Riquelme</title>
   </programme>
-  <programme start="20201004040000 -0500" stop="20201004060000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004040000 +0200" stop="20201004060000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Sassuolo vs. Crotone</title>
   </programme>
-  <programme start="20201004060000 -0500" stop="20201004090000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004060000 +0200" stop="20201004090000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">UFC Fight Night: Till vs Masvidal</title>
   </programme>
-  <programme start="20201004090000 -0500" stop="20201004110000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004090000 +0200" stop="20201004110000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Sassuolo vs. Crotone</title>
   </programme>
-  <programme start="20201004110000 -0500" stop="20201004120000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004110000 +0200" stop="20201004120000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Review</title>
   </programme>
-  <programme start="20201004120000 -0500" stop="20201004140000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004120000 +0200" stop="20201004140000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Osasuna vs. Celta En Vivo</title>
   </programme>
-  <programme start="20201004140000 -0500" stop="20201004150000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004140000 +0200" stop="20201004150000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">El show de la Copa Libertadores</title>
   </programme>
-  <programme start="20201004150000 -0500" stop="20201004170000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004150000 +0200" stop="20201004170000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Parma vs. Hellas Verona En Vivo</title>
   </programme>
-  <programme start="20201004170000 -0500" stop="20201004190000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004170000 +0200" stop="20201004190000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Groningen vs. Ajax</title>
   </programme>
-  <programme start="20201004190000 -0500" stop="20201004210000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004190000 +0200" stop="20201004210000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">La Era Ramón Díaz</title>
   </programme>
-  <programme start="20201004210000 -0500" stop="20201004230000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004210000 +0200" stop="20201004230000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Benevento vs. Bologna</title>
   </programme>
-  <programme start="20201004230000 -0500" stop="20201005020000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201004230000 +0200" stop="20201005020000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">UFC 237: Namajunas vs. Andrade</title>
   </programme>
-  <programme start="20201005020000 -0500" stop="20201005040000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005020000 +0200" stop="20201005040000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Osasuna vs. Celta</title>
   </programme>
-  <programme start="20201005040000 -0500" stop="20201005050000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005040000 +0200" stop="20201005050000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Review</title>
   </programme>
-  <programme start="20201005050000 -0500" stop="20201005060000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005050000 +0200" stop="20201005060000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Review</title>
   </programme>
-  <programme start="20201005060000 -0500" stop="20201005063000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005060000 +0200" stop="20201005063000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Review</title>
   </programme>
-  <programme start="20201005063000 -0500" stop="20201005070000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005063000 +0200" stop="20201005070000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">UFC Ultimate Knockouts</title>
   </programme>
-  <programme start="20201005070000 -0500" stop="20201005100000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005070000 +0200" stop="20201005100000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">UFC 237: Namajunas vs. Andrade</title>
   </programme>
-  <programme start="20201005100000 -0500" stop="20201005120000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005100000 +0200" stop="20201005120000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Parma vs. Hellas Verona</title>
   </programme>
-  <programme start="20201005120000 -0500" stop="20201005140000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005120000 +0200" stop="20201005140000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Tigre vs. Guaraní</title>
   </programme>
-  <programme start="20201005140000 -0500" stop="20201005160000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005140000 +0200" stop="20201005160000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Boca vs. Libertad</title>
   </programme>
-  <programme start="20201005160000 -0500" stop="20201005180000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005160000 +0200" stop="20201005180000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Benevento vs. Bologna</title>
   </programme>
-  <programme start="20201005180000 -0500" stop="20201005200000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005180000 +0200" stop="20201005200000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">River vs. São Paulo</title>
   </programme>
-  <programme start="20201005200000 -0500" stop="20201005220000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005200000 +0200" stop="20201005220000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Osasuna vs. Celta</title>
   </programme>
-  <programme start="20201005220000 -0500" stop="20201005230000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005220000 +0200" stop="20201005230000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Review</title>
   </programme>
-  <programme start="20201005230000 -0500" stop="20201006000000 -0500" channel="FOX SPORTS  LATINO  HD">
+  <programme start="20201005230000 +0200" stop="20201006000000 +0200" channel="FOX SPORTS  LATINO  HD">
     <title lang="es">Review</title>
   </programme>
 </tv>
