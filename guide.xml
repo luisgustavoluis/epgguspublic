@@ -1,7 +1,273 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="LA SEXTA HD">
-    <display-name lang="es">LA SEXTA HD</display-name>
-    <url>http://www.movistarplus.es</url>
+  <channel id="LA 1">
+    <display-name lang="es">LA 1</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" />
+    <url>http://www.elpais.com</url>
   </channel>
+  <channel id="GOLF FHD">
+    <display-name lang="es">GOLF FHD</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/333.jpg" />
+    <url>http://www.elpais.com</url>
+  </channel>
+  <programme start="20201007011000 +0200" stop="20201007031000 +0200" channel="LA 1">
+    <title lang="es">La noche en 24h</title>
+    <desc lang="es">Informativo que incluye conexiones en directo desde los puntos protagonistas de la actualidad, entrevistas, análisis de la información y una tertulia de opinión para ayudar a comprender los hechos.</desc>
+  </programme>
+  <programme start="20201007031000 +0200" stop="20201007060000 +0200" channel="LA 1">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.</desc>
+  </programme>
+  <programme start="20201007060000 +0200" stop="20201007063000 +0200" channel="LA 1">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.</desc>
+  </programme>
+  <programme start="20201007063000 +0200" stop="20201007080000 +0200" channel="LA 1">
+    <title lang="es">Telediario matinal</title>
+    <desc lang="es">Informativo con las primeras noticias de la jornada, presentado por Sirún Demirjián. Incluye la información deportiva con Rubén Briones, así como el pronóstico del tiempo en España y Europa.</desc>
+  </programme>
+  <programme start="20201007080000 +0200" stop="20201007100000 +0200" channel="LA 1">
+    <title lang="es">La hora de la 1</title>
+    <desc lang="es">Magazine, presentado por Mónica López, en el que cada día se abordarán contenidos muy variados, que van desde las entrevistas y debates políticos a la crónica social pasando por bloques de economía y consumo, sucesos y cultura.</desc>
+  </programme>
+  <programme start="20201007100000 +0200" stop="20201007130000 +0200" channel="LA 1">
+    <title lang="es">La hora de la 1</title>
+    <desc lang="es">En 'La hora de la Actualidad' se abordará actualidad social. El programa contará con voces autorizadas que tratarán temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.</desc>
+  </programme>
+  <programme start="20201007130000 +0200" stop="20201007135500 +0200" channel="LA 1">
+    <title lang="es">Cocina al punto con Peña y Tamara</title>
+    <desc lang="es">Hoy el programa recibe al actor y humorista Josema Yuste que cocinará uno de sus platos favoritos: Filetes rusos en salsa.</desc>
+  </programme>
+  <programme start="20201007135500 +0200" stop="20201007141000 +0200" channel="LA 1">
+    <title lang="es">Informativo territorial</title>
+    <desc lang="es">Desconexión territorial con la actualidad e información más próxima y cercana a los ciudadanos.</desc>
+  </programme>
+  <programme start="20201007141000 +0200" stop="20201007150000 +0200" channel="LA 1">
+    <title lang="es">Como Sapiens</title>
+    <desc lang="es">Hoy, Como Sapiens se ocupa de un alimento básico para nuestra alimentación durante milenios: el pan. Prepararemos un pan de cerveza muy especial con Samuel Moreno, chef con Estrella Michelín.</desc>
+  </programme>
+  <programme start="20201007150000 +0200" stop="20201007155500 +0200" channel="LA 1">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Ana Blanco presenta la primera edición del Telediario de TVE, uno de los informativos más antiguos de la televisión, para desgranar la actualidad nacional e internacional. Lourdes García Campos presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20201007155500 +0200" stop="20201007161500 +0200" channel="LA 1">
+    <title lang="es">Informativo territorial</title>
+    <desc lang="es">Desconexión territorial con la actualidad e información más próxima y cercana a los ciudadanos.</desc>
+  </programme>
+  <programme start="20201007161500 +0200" stop="20201007163000 +0200" channel="LA 1">
+    <title lang="es">El tiempo TVE 1</title>
+    <desc lang="es">Información meteorológica por provincias y predicción a corto y largo plazo, con Albert Barniol.</desc>
+  </programme>
+  <programme start="20201007163000 +0200" stop="20201007171500 +0200" channel="LA 1">
+    <title lang="es">Mercado central</title>
+    <desc lang="es">Los comerciantes del 'Mercado central' se ven obligados a modernizar sus negocios para reconvertirse y evitar que un importante fondo de inversores transforme el recinto en un lujoso centro comercial.</desc>
+  </programme>
+  <programme start="20201007171500 +0200" stop="20201007181500 +0200" channel="LA 1">
+    <title lang="es">Servir y proteger</title>
+    <desc lang="es">El barrio está todavía en shock, por el asalto a la comisaría y la muerte de Alicia Ocaña, cuando recibe a Tomás Salgado, el nuevo inspector jefe que investigará lo sucedido y depurará responsabilidades.</desc>
+  </programme>
+  <programme start="20201007181500 +0200" stop="20201007191000 +0200" channel="LA 1">
+    <title lang="es">Acacias, 38</title>
+    <desc lang="es">Serie ambientada en 1899 que narra las historias de amor, celos, pasiones, venganzas, odios y alegrías de cuatro familias burguesas y sus criadas en el edificio señorial de la calle Acacias, 38.</desc>
+  </programme>
+  <programme start="20201007191000 +0200" stop="20201007200000 +0200" channel="LA 1">
+    <title lang="es">El cazador</title>
+    <desc lang="es">Cuatro concursantes anónimos se enfrentan a los mejores concursantes de televisión de España, en un 'quiz show' conducido por Ion Aramendi.</desc>
+  </programme>
+  <programme start="20201007200000 +0200" stop="20201007203000 +0200" channel="LA 1">
+    <title lang="es">España directo</title>
+    <desc lang="es">Magacín diario presentado por Ana Ibáñez que nos ofrece reportajes, actualidad y la última hora sobre la actualidad del país.</desc>
+  </programme>
+  <programme start="20201007203000 +0200" stop="20201007223500 +0200" channel="LA 1">
+    <title lang="es">Fútbol: amistosos selecciones</title>
+    <desc lang="es">Partido amistoso entre Portugal y España que le servirá a los nacionales como calentamiento antes de recibir a Suiza el 10 de octubre y enfrentarse a Ucrania en Kiev el 14 de octubre en la Liga de las Naciones.</desc>
+  </programme>
+  <programme start="20201007223500 +0200" stop="20201007234000 +0200" channel="LA 1">
+    <title lang="es">Inés del alma mía</title>
+    <desc lang="es">Basada en la novela homónima de Isabel Allende y que trata sobre la conquista de Chile a través de la vida de Inés de Suárez. Inés Suárez vive en Plasencia junto con su hermana Asunción y su autoritario abuelo.</desc>
+  </programme>
+  <programme start="20201007234000 +0200" stop="20201008003000 +0200" channel="LA 1">
+    <title lang="es">La hora de la 1</title>
+    <desc lang="es">Especial investigación.</desc>
+  </programme>
+  <programme start="20201008003000 +0200" stop="20201008014000 +0200" channel="LA 1">
+    <title lang="es">Comando Actualidad. Especial investigación</title>
+    <desc lang="es">El retraso de la maternidad y la bajada de la calidad del esperma han provocado el aumento de la infertilidad en España. ¿Cuánto cuesta tener un hijo cuando no se puede?</desc>
+  </programme>
+  <programme start="20201008014000 +0200" stop="20201008023000 +0200" channel="LA 1">
+    <title lang="es">Comando Actualidad</title>
+    <desc lang="es">¿Cuáles son los nuevos fraudes que pueden arruinar nuestro bolsillo y nuestra salud? Comando Actualidad descubre algunas de las nuevas estafas que afectan a miles de españoles.</desc>
+  </programme>
+  <programme start="20201008023000 +0200" stop="20201008030000 +0200" channel="LA 1">
+    <title lang="es">Especial pre-debate presidencial EEUU</title>
+    <desc lang="es">Especial pre-debate presidencial EEUU.</desc>
+  </programme>
+  <programme start="20201008030000 +0200" stop="20201008043000 +0200" channel="LA 1">
+    <title lang="es">Debate presidencial EEUU</title>
+    <desc lang="es">Desde Salt Lake City, Utah, el único debate entre Mike Pence y Kamala Harris.</desc>
+  </programme>
+  <programme start="20201008043000 +0200" stop="20201008050000 +0200" channel="LA 1">
+    <title lang="es">Especial post-debate presidencial EEUU</title>
+    <desc lang="es">Especial post-debate presidencial EEUU.</desc>
+  </programme>
+  <programme start="20201008050000 +0200" stop="20201008060000 +0200" channel="LA 1">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.</desc>
+  </programme>
+  <programme start="20201008060000 +0200" stop="20201008063000 +0200" channel="LA 1">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.</desc>
+  </programme>
+  <programme start="20201008063000 +0200" stop="20201008080000 +0200" channel="LA 1">
+    <title lang="es">Telediario matinal</title>
+    <desc lang="es">Informativo con las primeras noticias de la jornada, presentado por Sirún Demirjián. Incluye la información deportiva con Rubén Briones, así como el pronóstico del tiempo en España y Europa.</desc>
+  </programme>
+  <programme start="20201008080000 +0200" stop="20201008100000 +0200" channel="LA 1">
+    <title lang="es">La hora de la 1</title>
+    <desc lang="es">Magazine, presentado por Mónica López, en el que cada día se abordarán contenidos muy variados, que van desde las entrevistas y debates políticos a la crónica social pasando por bloques de economía y consumo, sucesos y cultura.</desc>
+  </programme>
+  <programme start="20201008100000 +0200" stop="20201008130000 +0200" channel="LA 1">
+    <title lang="es">La hora de la 1</title>
+    <desc lang="es">Magazine, presentado por Mónica López, en el que cada día se abordarán contenidos muy variados, que van desde las entrevistas y debates políticos a la crónica social pasando por bloques de economía y consumo, sucesos y cultura.</desc>
+  </programme>
+  <programme start="20201008130000 +0200" stop="20201008135500 +0200" channel="LA 1">
+    <title lang="es">Cocina al punto con Peña y Tamara</title>
+    <desc lang="es">En esta nueva entrega de Cocina al Punto, Peña y Tamara reciben la visita de la actriz y presentadora Rocío Muñoz para cocinar una paella tradicional.</desc>
+  </programme>
+  <programme start="20201008135500 +0200" stop="20201008141000 +0200" channel="LA 1">
+    <title lang="es">Informativo territorial</title>
+    <desc lang="es">Desconexión territorial con la actualidad e información más próxima y cercana a los ciudadanos.</desc>
+  </programme>
+  <programme start="20201008141000 +0200" stop="20201008150000 +0200" channel="LA 1">
+    <title lang="es">Como Sapiens</title>
+    <desc lang="es">Hoy, Como Sapiens se dedica a varios productos íntimamente ligados a la tierra en la que nacieron; desde los melocotones de Calanda al queso Idiazábal y los jamones de Trevélez.</desc>
+  </programme>
+  <programme start="20201008150000 +0200" stop="20201008155500 +0200" channel="LA 1">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Ana Blanco presenta la primera edición del Telediario de TVE, uno de los informativos más antiguos de la televisión, para desgranar la actualidad nacional e internacional. Lourdes García Campos presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20201008155500 +0200" stop="20201008161500 +0200" channel="LA 1">
+    <title lang="es">Informativo territorial</title>
+    <desc lang="es">Desconexión territorial con la actualidad e información más próxima y cercana a los ciudadanos.</desc>
+  </programme>
+  <programme start="20201008161500 +0200" stop="20201008163000 +0200" channel="LA 1">
+    <title lang="es">El tiempo TVE 1</title>
+    <desc lang="es">Información meteorológica por provincias y predicción a corto y largo plazo, con Albert Barniol.</desc>
+  </programme>
+  <programme start="20201008163000 +0200" stop="20201008171500 +0200" channel="LA 1">
+    <title lang="es">Mercado central</title>
+    <desc lang="es">Los comerciantes del 'Mercado central' se ven obligados a modernizar sus negocios para reconvertirse y evitar que un importante fondo de inversores transforme el recinto en un lujoso centro comercial.</desc>
+  </programme>
+  <programme start="20201008171500 +0200" stop="20201008181500 +0200" channel="LA 1">
+    <title lang="es">Servir y proteger</title>
+    <desc lang="es">El barrio está todavía en shock, por el asalto a la comisaría y la muerte de Alicia Ocaña, cuando recibe a Tomás Salgado, el nuevo inspector jefe que investigará lo sucedido y depurará responsabilidades.</desc>
+  </programme>
+  <programme start="20201008181500 +0200" stop="20201008191000 +0200" channel="LA 1">
+    <title lang="es">Acacias, 38</title>
+    <desc lang="es">Serie ambientada en 1899 que narra las historias de amor, celos, pasiones, venganzas, odios y alegrías de cuatro familias burguesas y sus criadas en el edificio señorial de la calle Acacias, 38.</desc>
+  </programme>
+  <programme start="20201008191000 +0200" stop="20201008200000 +0200" channel="LA 1">
+    <title lang="es">El cazador</title>
+    <desc lang="es">Cuatro concursantes anónimos se enfrentan a los mejores concursantes de televisión de España, en un 'quiz show' conducido por Ion Aramendi.</desc>
+  </programme>
+  <programme start="20201008200000 +0200" stop="20201008203000 +0200" channel="LA 1">
+    <title lang="es">España directo</title>
+    <desc lang="es">Magacín diario presentado por Ana Ibáñez que nos ofrece reportajes, actualidad y la última hora sobre la actualidad del país.</desc>
+  </programme>
+  <programme start="20201008203000 +0200" stop="20201008210000 +0200" channel="LA 1">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Jacob Petrus, geógrafo especializado en climatología, nos da una nueva visión de nuestro planeta y demuestra cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.</desc>
+  </programme>
+  <programme start="20201008210000 +0200" stop="20201008221000 +0200" channel="LA 1">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Carlos Franganillo presenta la 2ª edición del Telediario de TVE, uno de los informativos más antiguos de la televisión, con una cobertura exhaustiva de lo acontecido en España y el mundo durante el día. Arsenio Cañada ofrece los deportes.</desc>
+  </programme>
+  <programme start="20201008221000 +0200" stop="20201008234500 +0200" channel="LA 1">
+    <title lang="es">Transporter 3</title>
+    <desc lang="es">Frank Martin es un indiscutible especialista en entregas de alto riesgo. En esta ocasión se verá obligado, bajo amenazas, a trasladar dos voluminosas bolsas y a una joven ucraniana, Valentina, desde Marsella hasta Odessa.</desc>
+  </programme>
+  <programme start="20201007021400 +0200" stop="20201007090000 +0200" channel="GOLF FHD">
+    <title lang="es">M. Golf</title>
+    <desc lang="es">M. Golf.</desc>
+  </programme>
+  <programme start="20201007090000 +0200" stop="20201007093000 +0200" channel="GOLF FHD">
+    <title lang="es">Play Off (T2020): Episodio 24</title>
+    <desc lang="es">Programa que nos acerca toda la actualidad del mundo del golf: los últimos torneos, la agenda, los ranking y los nombres propios más destacados con una atención especial a los jugadores españoles.</desc>
+  </programme>
+  <programme start="20201007093000 +0200" stop="20201007123500 +0200" channel="GOLF FHD">
+    <title lang="es">PGA Tour (T20/21): Sanderson Farms Championship. Jornada 4</title>
+    <desc lang="es">Es el hábitat natural de las megaestrellas golfísticas: Tiger Woods, Dustin Johnson, Brooks Koepka o Rory McIlroy. Entre ellas, también se encuentra Rafa Cabrera, Sergio García y Jon Rahm. Semanalmente, los participantes en el PGA Tour luchan por llevarse la victoria el domingo y un suculento cheque ganador de más de 1 millón de dólares. A largo plazo, la recompensa es mayor: el más regular de la temporada acaba embolsándose 15millones de bonus.</desc>
+  </programme>
+  <programme start="20201007123500 +0200" stop="20201007130000 +0200" channel="GOLF FHD">
+    <title lang="es">Korn Ferry Tour (T2020): One Shot Away. Episodio 4</title>
+    <desc lang="es">Las estrellas emergentes del Korn Ferry Tour siguen buscando las 25 tarjetas para el PGA Tour. One Shot Away les acompaña en su largo y excitante camino.</desc>
+  </programme>
+  <programme start="20201007130000 +0200" stop="20201007133000 +0200" channel="GOLF FHD">
+    <title lang="es">Lara Academy (T2020): Episodio 24</title>
+    <desc lang="es">José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales de juego, consultas de los espectadores y análisis de los profesionales del circuito.</desc>
+  </programme>
+  <programme start="20201007133000 +0200" stop="20201007173000 +0200" channel="GOLF FHD">
+    <title lang="es">European Tour (T2020): Aberdeen Standard Investments Scottish Open. Jornada 4</title>
+    <desc lang="es">La mayoría de profesionales españoles compiten en un European Tour cada vez más globalizado e internacional. Jóvenes promesas y leyendas consolidadas se juntan de jueves a domingo con el objetivo de hacerse con una plaza para el DP World Tour Championship, torneo que otorga 3millones de dólares al ganador, el mayor cheque existente en un evento. En este año de Ryder Cup, la presencia de los europeos más destacados está garantizada en la mayoría d.</desc>
+  </programme>
+  <programme start="20201007173000 +0200" stop="20201007183000 +0200" channel="GOLF FHD">
+    <title lang="es">Ladies PGA Tour (T2020): Shoprite LPGA Classic. Jornada 2</title>
+    <desc lang="es">La LPGA es el circuito femenino que reúne a las mejores golfistas profesionales del mundo. Desde su creación en 1950 ha crecido en miembros, torneos y premios. Son ya 200 las jugadoras profesionales que compiten a lo largo de 33 torneos en 14 países desde enero a noviembre, con el objetivo de intentar coronarse al final de la temporada como campeona de la Race to the CME Globe donde la ganadora recibe un bonus añadido de un millón de dólares.</desc>
+  </programme>
+  <programme start="20201007183000 +0200" stop="20201007193000 +0200" channel="GOLF FHD">
+    <title lang="es">Ladies PGA Tour (T2020): Shoprite LPGA Classic. Jornada 3</title>
+    <desc lang="es">La LPGA es el circuito femenino que reúne a las mejores golfistas profesionales del mundo. Desde su creación en 1950 ha crecido en miembros, torneos y premios. Son ya 200 las jugadoras profesionales que compiten a lo largo de 33 torneos en 14 países desde enero a noviembre, con el objetivo de intentar coronarse al final de la temporada como campeona de la Race to the CME Globe donde la ganadora recibe un bonus añadido de un millón de dólares.</desc>
+  </programme>
+  <programme start="20201007193000 +0200" stop="20201007203000 +0200" channel="GOLF FHD">
+    <title lang="es">Ladies PGA Tour (T2020): Shoprite LPGA Classic. Jornada 4</title>
+    <desc lang="es">La LPGA es el circuito femenino que reúne a las mejores golfistas profesionales del mundo. Desde su creación en 1950 ha crecido en miembros, torneos y premios. Son ya 200 las jugadoras profesionales que compiten a lo largo de 33 torneos en 14 países desde enero a noviembre, con el objetivo de intentar coronarse al final de la temporada como campeona de la Race to the CME Globe donde la ganadora recibe un bonus añadido de un millón de dólares.</desc>
+  </programme>
+  <programme start="20201007203000 +0200" stop="20201007204500 +0200" channel="GOLF FHD">
+    <title lang="es">Sueños de Golf (T2020): Jhonattan Vegas: historia de Venezuela</title>
+    <desc lang="es">Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.</desc>
+  </programme>
+  <programme start="20201007204500 +0200" stop="20201007213000 +0200" channel="GOLF FHD">
+    <title lang="es">European Challenge Tour (T2020): Italian Challenge Open Eneos Motor Oil</title>
+    <desc lang="es">Serie de pruebas internacionales para los golfistas que buscan el acceso directo al European Tour en una veintena de países.</desc>
+  </programme>
+  <programme start="20201007213000 +0200" stop="20201007220000 +0200" channel="GOLF FHD">
+    <title lang="es">Locos por el golf (T2020): Episodio 33</title>
+    <desc lang="es">Lidia Blanco y Carlos Palomo ofrecen en este programa semanal múltiples argumentos para divertirse con el golf. Las situaciones más surrealistas, los fallos más inimaginables y las historias más curiosas siempre tienen un hueco en Locos por el Golf.</desc>
+  </programme>
+  <programme start="20201007220000 +0200" stop="20201007222000 +0200" channel="GOLF FHD">
+    <title lang="es">Torneos Profesionales (T2020): Alps de Andalucía 2020</title>
+    <desc lang="es">Desde Catalunya hasta la Gomera, los Torneos Profesionales de golf recorren toda la geografía española. En Movistar Golf analizamos al detalle las diferentes competiciones profesionales que se celebran en España.</desc>
+  </programme>
+  <programme start="20201007222000 +0200" stop="20201008024000 +0200" channel="GOLF FHD">
+    <title lang="es">European Tour (T2019): BMW PGA Championship. Jornada 4</title>
+    <desc lang="es">El BMW PGA Championship, torneo del European Tour y perteneciente a las Rolex Series, se disputa en el Wentworth Golf Club de Inglaterra. Se ha trasladado a septiembre y posibilita que participen jugadores norteamericanos como Patrick Reed, Andrew Putman o Tony Finau así como europeos que compaginan los dos grandes circuitos, como Rory McIIroy, Jon Rahm o Justin Rose. Además del campeón del año pasado, Francesco Molinari.</desc>
+  </programme>
+  <programme start="20201008024000 +0200" stop="20201008090000 +0200" channel="GOLF FHD">
+    <title lang="es">M. Golf</title>
+    <desc lang="es">M. Golf.</desc>
+  </programme>
+  <programme start="20201008090000 +0200" stop="20201008110000 +0200" channel="GOLF FHD">
+    <title lang="es">European Tour (T2020): Aberdeen Standard Investments Scottish Open. Jornada 4</title>
+    <desc lang="es">La mayoría de profesionales españoles compiten en un European Tour cada vez más globalizado e internacional. Jóvenes promesas y leyendas consolidadas se juntan de jueves a domingo con el objetivo de hacerse con una plaza para el DP World Tour Championship, torneo que otorga 3millones de dólares al ganador, el mayor cheque existente en un evento. En este año de Ryder Cup, la presencia de los europeos más destacados está garantizada en la mayoría d.</desc>
+  </programme>
+  <programme start="20201008110000 +0200" stop="20201008140000 +0200" channel="GOLF FHD">
+    <title lang="es">PGA Tour (T20/21): Sanderson Farms Championship. Jornada 4</title>
+    <desc lang="es">Es el hábitat natural de las megaestrellas golfísticas: Tiger Woods, Dustin Johnson, Brooks Koepka o Rory McIlroy. Entre ellas, también se encuentra Rafa Cabrera, Sergio García y Jon Rahm. Semanalmente, los participantes en el PGA Tour luchan por llevarse la victoria el domingo y un suculento cheque ganador de más de 1 millón de dólares. A largo plazo, la recompensa es mayor: el más regular de la temporada acaba embolsándose 15millones de bonus.</desc>
+  </programme>
+  <programme start="20201008140000 +0200" stop="20201008143000 +0200" channel="GOLF FHD">
+    <title lang="es">European Tour (T2020): Best of BMW PGA Championship</title>
+    <desc lang="es">La mayoría de profesionales españoles compiten en un European Tour cada vez más globalizado e internacional. Jóvenes promesas y leyendas consolidadas se juntan de jueves a domingo con el objetivo de hacerse con una plaza para el DP World Tour Championship, torneo que otorga 3millones de dólares al ganador, el mayor cheque existente en un evento. En este año de Ryder Cup, la presencia de los europeos más destacados está garantizada en la mayoría d.</desc>
+  </programme>
+  <programme start="20201008143000 +0200" stop="20201008183000 +0200" channel="GOLF FHD">
+    <title lang="es">European Tour (T2020): BMW PGA Championship. Jornada 1</title>
+    <desc lang="es">La mayoría de profesionales españoles compiten en un European Tour cada vez más globalizado e internacional. Jóvenes promesas y leyendas consolidadas se juntan de jueves a domingo con el objetivo de hacerse con una plaza para el DP World Tour Championship, torneo que otorga 3millones de dólares al ganador, el mayor cheque existente en un evento. En este año de Ryder Cup, la presencia de los europeos más destacados está garantizada en la mayoría d.</desc>
+  </programme>
+  <programme start="20201008183000 +0200" stop="20201008190000 +0200" channel="GOLF FHD">
+    <title lang="es">PGA Tour The Cut (T2020): Episodio 41</title>
+    <desc lang="es">Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc>
+  </programme>
+  <programme start="20201008190000 +0200" stop="20201008230000 +0200" channel="GOLF FHD">
+    <title lang="es">Ladies PGA Tour (T2020): KPMG Women's PGA Championship. Jornada 1</title>
+    <desc lang="es">La LPGA es el circuito femenino que reúne a las mejores golfistas profesionales del mundo. Desde su creación en 1950 ha crecido en miembros, torneos y premios. Son ya 200 las jugadoras profesionales que compiten a lo largo de 33 torneos en 14 países desde enero a noviembre, con el objetivo de intentar coronarse al final de la temporada como campeona de la Race to the CME Globe donde la ganadora recibe un bonus añadido de un millón de dólares.</desc>
+  </programme>
 </tv>
