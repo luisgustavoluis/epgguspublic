@@ -10,13 +10,18 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20201023020000 -0500" stop="20201023043000 -0500" channel="ARG: Espn 2">
+  <channel id="ARG: Espn 1">
+    <display-name lang="es">ARG: Espn 1"</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_sur-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201023020000 +0200" stop="20201023043000 +0200" channel="ARG: Espn 2">
     <title lang="es">Boca vs. Caracas En Vivo</title>
   </programme>
-  <programme start="20201023043000 -0500" stop="20201023053000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023043000 +0200" stop="20201023053000 +0200" channel="ARG: Espn 2">
     <title lang="es">ESPN FC Show En Vivo</title>
   </programme>
-  <programme start="20201023053000 -0500" stop="20201023063000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023053000 +0200" stop="20201023063000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
@@ -35,37 +40,37 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20201023063000 -0500" stop="20201023073000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023063000 +0200" stop="20201023073000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A En Vivo</title>
   </programme>
-  <programme start="20201023073000 -0500" stop="20201023083000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023073000 +0200" stop="20201023083000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201023083000 -0500" stop="20201023093000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023083000 +0200" stop="20201023093000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201023093000 -0500" stop="20201023100000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023093000 +0200" stop="20201023100000 +0200" channel="ARG: Espn 2">
     <title lang="es">ESPN X</title>
   </programme>
-  <programme start="20201023100000 -0500" stop="20201023110000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023100000 +0200" stop="20201023110000 +0200" channel="ARG: Espn 2">
     <title lang="es">Simplemente Futbol</title>
   </programme>
-  <programme start="20201023110000 -0500" stop="20201023120000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023110000 +0200" stop="20201023120000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201023120000 -0500" stop="20201023130000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023120000 +0200" stop="20201023130000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201023130000 -0500" stop="20201023140000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023130000 +0200" stop="20201023140000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201023140000 -0500" stop="20201023180000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023140000 +0200" stop="20201023180000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter - edición de mediodía En Vivo</title>
   </programme>
-  <programme start="20201023180000 -0500" stop="20201023200000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023180000 +0200" stop="20201023200000 +0200" channel="ARG: Espn 2">
     <title lang="es">90 Minutos de fútbol En Vivo</title>
   </programme>
-  <programme start="20201023200000 -0500" stop="20201023205000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023200000 +0200" stop="20201023205000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
@@ -84,13 +89,13 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20201023205000 -0500" stop="20201023230000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023205000 +0200" stop="20201023230000 +0200" channel="ARG: Espn 2">
     <title lang="es">Aston Villa vs. Leeds United En Vivo</title>
   </programme>
-  <programme start="20201023230000 -0500" stop="20201024000000 -0500" channel="ARG: Espn 2">
+  <programme start="20201023230000 +0200" stop="20201024000000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter Sur En Vivo</title>
   </programme>
-  <programme start="20201024020000 -0500" stop="20201024040000 -0500" channel="ARG: Espn 2">
+  <programme start="20201024020000 +0200" stop="20201024040000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
@@ -109,46 +114,46 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20201024040000 -0500" stop="20201024050000 -0500" channel="ARG: Espn 2">
+  <programme start="20201024040000 +0200" stop="20201024050000 +0200" channel="ARG: Espn 2">
     <title lang="es">ESPN FC Show</title>
   </programme>
-  <programme start="20201024050000 -0500" stop="20201024060000 -0500" channel="ARG: Espn 2">
+  <programme start="20201024050000 +0200" stop="20201024060000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201024060000 -0500" stop="20201024070000 -0500" channel="ARG: Espn 2">
+  <programme start="20201024060000 +0200" stop="20201024070000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201024070000 -0500" stop="20201024080000 -0500" channel="ARG: Espn 2">
+  <programme start="20201024070000 +0200" stop="20201024080000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201024080000 -0500" stop="20201024085700 -0500" channel="ARG: Espn 2">
+  <programme start="20201024080000 +0200" stop="20201024085700 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201024085700 -0500" stop="20201024095500 -0500" channel="ARG: Espn 2">
+  <programme start="20201024085700 +0200" stop="20201024095500 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201024095500 -0500" stop="20201024105000 -0500" channel="ARG: Espn 2">
+  <programme start="20201024095500 +0200" stop="20201024105000 +0200" channel="ARG: Espn 2">
     <title lang="es">Simplemente Futbol</title>
   </programme>
-  <programme start="20201024105000 -0500" stop="20201024111500 -0500" channel="ARG: Espn 2">
+  <programme start="20201024105000 +0200" stop="20201024111500 +0200" channel="ARG: Espn 2">
     <title lang="es">ESPN Run</title>
   </programme>
-  <programme start="20201024111500 -0500" stop="20201024123000 -0500" channel="ARG: Espn 2">
+  <programme start="20201024111500 +0200" stop="20201024123000 +0200" channel="ARG: Espn 2">
     <title lang="es">Será Anunciado En Vivo</title>
   </programme>
-  <programme start="20201024123000 -0500" stop="20201024132500 -0500" channel="ARG: Espn 2">
+  <programme start="20201024123000 +0200" stop="20201024132500 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201024132500 -0500" stop="20201024154500 -0500" channel="ARG: Espn 2">
+  <programme start="20201024132500 +0200" stop="20201024154500 +0200" channel="ARG: Espn 2">
     <title lang="es">Fútbol Premier League</title>
   </programme>
-  <programme start="20201024154500 -0500" stop="20201024175500 -0500" channel="ARG: Espn 2">
+  <programme start="20201024154500 +0200" stop="20201024175500 +0200" channel="ARG: Espn 2">
     <title lang="es">Fútbol Premier League</title>
   </programme>
-  <programme start="20201024175500 -0500" stop="20201024200000 -0500" channel="ARG: Espn 2">
+  <programme start="20201024175500 +0200" stop="20201024200000 +0200" channel="ARG: Espn 2">
     <title lang="es">Fútbol Serie A En Vivo</title>
   </programme>
-  <programme start="20201024200000 -0500" stop="20201024203000 -0500" channel="ARG: Espn 2">
+  <programme start="20201024200000 +0200" stop="20201024203000 +0200" channel="ARG: Espn 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
@@ -167,34 +172,34 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20201024203000 -0500" stop="20201024205500 -0500" channel="ARG: Espn 2">
+  <programme start="20201024203000 +0200" stop="20201024205500 +0200" channel="ARG: Espn 2">
     <title lang="es">ESPN Run</title>
   </programme>
-  <programme start="20201024205500 -0500" stop="20201024230000 -0500" channel="ARG: Espn 2">
+  <programme start="20201024205500 +0200" stop="20201024230000 +0200" channel="ARG: Espn 2">
     <title lang="es">Fútbol LaLiga</title>
   </programme>
-  <programme start="20201024230000 -0500" stop="20201025050000 -0600" channel="ARG: Espn 2">
+  <programme start="20201024230000 +0200" stop="20201025050000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter Sur En Vivo</title>
   </programme>
-  <programme start="20201025050000 -0600" stop="20201025060000 -0600" channel="ARG: Espn 2">
+  <programme start="20201025050000 +0100" stop="20201025060000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A En Vivo</title>
   </programme>
-  <programme start="20201025080000 -0600" stop="20201025090000 -0600" channel="ARG: Espn 2">
+  <programme start="20201025080000 +0100" stop="20201025090000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201025090000 -0600" stop="20201025093000 -0600" channel="ARG: Espn 2">
+  <programme start="20201025090000 +0100" stop="20201025093000 +0100" channel="ARG: Espn 2">
     <title lang="es">Aguas arriba</title>
   </programme>
-  <programme start="20201025093000 -0600" stop="20201025130000 -0600" channel="ARG: Espn 2">
+  <programme start="20201025093000 +0100" stop="20201025130000 +0100" channel="ARG: Espn 2">
     <title lang="es">Rugby Copa Mundial 2019</title>
   </programme>
-  <programme start="20201025140000 -0600" stop="20201025150000 -0600" channel="ARG: Espn 2">
+  <programme start="20201025140000 +0100" stop="20201025150000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201025150000 -0600" stop="20201025170000 -0600" channel="ARG: Espn 2">
+  <programme start="20201025150000 +0100" stop="20201025170000 +0100" channel="ARG: Espn 2">
     <title lang="es">Tenis ATP</title>
   </programme>
-  <programme start="20201025170000 -0600" stop="20201025181500 -0600" channel="ARG: Espn 2">
+  <programme start="20201025170000 +0100" stop="20201025181500 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
@@ -213,133 +218,405 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20201025181500 -0600" stop="20201025203000 -0600" channel="ARG: Espn 2">
+  <programme start="20201025181500 +0100" stop="20201025203000 +0100" channel="ARG: Espn 2">
     <title lang="es">Fútbol Premier League</title>
   </programme>
-  <programme start="20201025203000 -0600" stop="20201026043000 -0600" channel="ARG: Espn 2">
+  <programme start="20201025203000 +0100" stop="20201026043000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter Sur En Vivo</title>
   </programme>
-  <programme start="20201026193000 -0600" stop="20201027033000 -0600" channel="ARG: Espn 2">
+  <programme start="20201026193000 +0100" stop="20201027033000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter Sur En Vivo</title>
   </programme>
-  <programme start="20201027033000 -0600" stop="20201027050000 -0600" channel="ARG: Espn 2">
+  <programme start="20201027033000 +0100" stop="20201027050000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A En Vivo</title>
   </programme>
-  <programme start="20201027050000 -0600" stop="20201027063000 -0600" channel="ARG: Espn 2">
+  <programme start="20201027050000 +0100" stop="20201027063000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201027063000 -0600" stop="20201027080000 -0600" channel="ARG: Espn 2">
+  <programme start="20201027063000 +0100" stop="20201027080000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201027080000 -0600" stop="20201027090000 -0600" channel="ARG: Espn 2">
+  <programme start="20201027080000 +0100" stop="20201027090000 +0100" channel="ARG: Espn 2">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20201027090000 -0600" stop="20201027100000 -0600" channel="ARG: Espn 2">
+  <programme start="20201027090000 +0100" stop="20201027100000 +0100" channel="ARG: Espn 2">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20201027100000 -0600" stop="20201027110000 -0600" channel="ARG: Espn 2">
+  <programme start="20201027100000 +0100" stop="20201027110000 +0100" channel="ARG: Espn 2">
     <title lang="es">Scrum Domingo</title>
   </programme>
-  <programme start="20201027110000 -0600" stop="20201027113000 -0600" channel="ARG: Espn 2">
+  <programme start="20201027110000 +0100" stop="20201027113000 +0100" channel="ARG: Espn 2">
     <title lang="es">UEFA Champions League Magazine</title>
   </programme>
-  <programme start="20201027113000 -0600" stop="20201027130000 -0600" channel="ARG: Espn 2">
+  <programme start="20201027113000 +0100" stop="20201027130000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter L.A</title>
   </programme>
-  <programme start="20201027130000 -0600" stop="20201027190000 -0600" channel="ARG: Espn 2">
+  <programme start="20201027130000 +0100" stop="20201027190000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter - edición de mediodía En Vivo</title>
   </programme>
-  <programme start="20201027190000 -0600" stop="20201027210000 -0600" channel="ARG: Espn 2">
+  <programme start="20201027190000 +0100" stop="20201027210000 +0100" channel="ARG: Espn 2">
     <title lang="es">ESPN FC En Vivo</title>
   </programme>
-  <programme start="20201027210000 -0600" stop="20201028030000 -0600" channel="ARG: Espn 2">
+  <programme start="20201027210000 +0100" stop="20201028030000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter Sur En Vivo</title>
   </programme>
-  <programme start="20201028210000 -0600" stop="20201029030000 -0600" channel="ARG: Espn 2">
+  <programme start="20201028210000 +0100" stop="20201029030000 +0100" channel="ARG: Espn 2">
     <title lang="es">SportsCenter Sur En Vivo</title>
   </programme>
-  <programme start="20201023020000 -0500" stop="20201023023000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023020000 +0200" stop="20201023023000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Previa - CONMEBOL Libertadores En Vivo</title>
   </programme>
-  <programme start="20201023023000 -0500" stop="20201023043000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023023000 +0200" stop="20201023043000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Universidad Católica vs. Internacional En Vivo</title>
   </programme>
-  <programme start="20201023043000 -0500" stop="20201023063000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023043000 +0200" stop="20201023063000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">UEFA Europa League</title>
   </programme>
-  <programme start="20201023063000 -0500" stop="20201023083000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023063000 +0200" stop="20201023083000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Libertad vs. Deportivo Independiente Medellín</title>
   </programme>
-  <programme start="20201023083000 -0500" stop="20201023090000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023083000 +0200" stop="20201023090000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20201023090000 -0500" stop="20201023100000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023090000 +0200" stop="20201023100000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Juego Sagrado</title>
   </programme>
-  <programme start="20201023100000 -0500" stop="20201023120000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023100000 +0200" stop="20201023120000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">UEFA Europa League</title>
   </programme>
-  <programme start="20201023120000 -0500" stop="20201023140000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023120000 +0200" stop="20201023140000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Boca Juniors vs. Caracas FC</title>
   </programme>
-  <programme start="20201023140000 -0500" stop="20201023160000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023140000 +0200" stop="20201023160000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Universidad Católica vs. Internacional</title>
   </programme>
-  <programme start="20201023160000 -0500" stop="20201023180000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023160000 +0200" stop="20201023180000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">UEFA Europa League</title>
   </programme>
-  <programme start="20201023180000 -0500" stop="20201023200000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023180000 +0200" stop="20201023200000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Libertad vs. Deportivo Independiente Medellín</title>
   </programme>
-  <programme start="20201023200000 -0500" stop="20201023203000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023200000 +0200" stop="20201023203000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Review</title>
   </programme>
-  <programme start="20201023203000 -0500" stop="20201023204500 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023203000 +0200" stop="20201023204500 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Fútbol de Italia - Serie A - Previa En Vivo</title>
   </programme>
-  <programme start="20201023204500 -0500" stop="20201023223000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023204500 +0200" stop="20201023223000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Sassuolo vs. Torino En Vivo</title>
   </programme>
-  <programme start="20201023223000 -0500" stop="20201023230000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023223000 +0200" stop="20201023230000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">UFC Ultimate Knockouts</title>
   </programme>
-  <programme start="20201023230000 -0500" stop="20201024000000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201023230000 +0200" stop="20201024000000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Review En Vivo</title>
   </programme>
-  <programme start="20201024000000 -0500" stop="20201024020000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201024000000 +0200" stop="20201024020000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">La era Riquelme</title>
   </programme>
-  <programme start="20201024020000 -0500" stop="20201024040000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201024020000 +0200" stop="20201024040000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">WWE SmackDown! En Vivo</title>
   </programme>
-  <programme start="20201024040000 -0500" stop="20201024050000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201024040000 +0200" stop="20201024050000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">El Show de la CONMEBOL Libertadores</title>
   </programme>
-  <programme start="20201024050000 -0500" stop="20201024070000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201024050000 +0200" stop="20201024070000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">La Era Ramón Díaz</title>
   </programme>
-  <programme start="20201024070000 -0500" stop="20201024090000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201024070000 +0200" stop="20201024090000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Gremio vs. América de Cali</title>
   </programme>
-  <programme start="20201024090000 -0500" stop="20201024100000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201024090000 +0200" stop="20201024100000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Juego Sagrado</title>
   </programme>
-  <programme start="20201024100000 -0500" stop="20201024120000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201024100000 +0200" stop="20201024120000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">UEFA Champions League</title>
   </programme>
-  <programme start="20201024120000 -0500" stop="20201024170000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201024120000 +0200" stop="20201024170000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Fox Sports</title>
   </programme>
-  <programme start="20201024170000 -0500" stop="20201025050000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201024170000 +0200" stop="20201025050000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Fox Sports</title>
   </programme>
-  <programme start="20201025050000 -0500" stop="20201025170000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201025050000 +0200" stop="20201025170000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Fox Sports</title>
   </programme>
-  <programme start="20201026160000 -0500" stop="20201027040000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201026160000 +0200" stop="20201027040000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Fox Sports</title>
   </programme>
-  <programme start="20201027040000 -0500" stop="20201027160000 -0500" channel="ARG: Fox Sports Premium">
+  <programme start="20201027040000 +0200" stop="20201027160000 +0200" channel="ARG: Fox Sports Premium">
     <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20201023010000 +0200" stop="20201023020000 +0200" channel="ARG: Espn 1">
+    <title lang="es">Simplemente Futbol</title>
+  </programme>
+  <programme start="20201023020000 +0200" stop="20201023040000 +0200" channel="ARG: Espn 1">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201023040000 +0200" stop="20201023043000 +0200" channel="ARG: Espn 1">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20201023043000 +0200" stop="20201023053000 +0200" channel="ARG: Espn 1">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201023053000 +0200" stop="20201023063000 +0200" channel="ARG: Espn 1">
+    <title lang="es">UEFA Champions League Highlights</title>
+  </programme>
+  <programme start="20201023063000 +0200" stop="20201023073000 +0200" channel="ARG: Espn 1">
+    <title lang="es">UEFA Champions League Highlights</title>
+  </programme>
+  <programme start="20201023073000 +0200" stop="20201023080000 +0200" channel="ARG: Espn 1">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20201023080000 +0200" stop="20201023090000 +0200" channel="ARG: Espn 1">
+    <title lang="es">UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20201023090000 +0200" stop="20201023100000 +0200" channel="ARG: Espn 1">
+    <title lang="es">ESPN FC Show</title>
+  </programme>
+  <programme start="20201023100000 +0200" stop="20201023110000 +0200" channel="ARG: Espn 1">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201023110000 +0200" stop="20201023115500 +0200" channel="ARG: Espn 1">
+    <title lang="es">Simplemente Futbol</title>
+  </programme>
+  <programme start="20201023115500 +0200" stop="20201023133500 +0200" channel="ARG: Espn 1">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201023133500 +0200" stop="20201023152000 +0200" channel="ARG: Espn 1">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201023152000 +0200" stop="20201023155000 +0200" channel="ARG: Espn 1">
+    <title lang="es">GP1</title>
+  </programme>
+  <programme start="20201023155000 +0200" stop="20201023173500 +0200" channel="ARG: Espn 1">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201023173500 +0200" stop="20201023180500 +0200" channel="ARG: Espn 1">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201023180500 +0200" stop="20201023183300 +0200" channel="ARG: Espn 1">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20201023183300 +0200" stop="20201023190000 +0200" channel="ARG: Espn 1">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20201023190000 +0200" stop="20201023195000 +0200" channel="ARG: Espn 1">
+    <title lang="es">UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20201023195000 +0200" stop="20201023202000 +0200" channel="ARG: Espn 1">
+    <title lang="es">Golf</title>
+  </programme>
+  <programme start="20201023202000 +0200" stop="20201023205000 +0200" channel="ARG: Espn 1">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20201023205000 +0200" stop="20201023230000 +0200" channel="ARG: Espn 1">
+    <title lang="es">Elche CF vs. Valencia CF</title>
+  </programme>
+  <programme start="20201023230000 +0200" stop="20201024000000 +0200" channel="ARG: Espn 1">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20201024010000 +0200" stop="20201024013000 +0200" channel="ARG: Espn 1">
+    <title lang="es">ESPN Playroom</title>
+  </programme>
+  <programme start="20201024013000 +0200" stop="20201024020000 +0200" channel="ARG: Espn 1">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201024020000 +0200" stop="20201024060000 +0200" channel="ARG: Espn 1">
+    <title lang="es">Serie Mundial de la MLB</title>
+  </programme>
+  <programme start="20201024060000 +0200" stop="20201024070000 +0200" channel="ARG: Espn 1">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201024070000 +0200" stop="20201024090000 +0200" channel="ARG: Espn 1">
+    <title lang="es">#Redes</title>
+  </programme>
+  <programme start="20201024090000 +0200" stop="20201024100000 +0200" channel="ARG: Espn 1">
+    <title lang="es">ESPN FC Show</title>
+  </programme>
+  <programme start="20201024100000 +0200" stop="20201024110000 +0200" channel="ARG: Espn 1">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201024110000 +0200" stop="20201024115500 +0200" channel="ARG: Espn 1">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20201024115500 +0200" stop="20201024130500 +0200" channel="ARG: Espn 1">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201024130500 +0200" stop="20201024145500 +0200" channel="ARG: Espn 1">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201024145500 +0200" stop="20201024170000 +0200" channel="ARG: Espn 1">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201024170000 +0200" stop="20201024182000 +0200" channel="ARG: Espn 1">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201024182000 +0200" stop="20201024203000 +0200" channel="ARG: Espn 1">
+    <title lang="es">Fútbol Premier League</title>
+  </programme>
+  <programme start="20201024203000 +0200" stop="20201025000000 +0200" channel="ARG: Espn 1">
+    <title lang="es">Fútbol italiano Serie A</title>
+  </programme>
+  <programme start="20201025000000 +0200" stop="20201025020000 +0200" channel="ARG: Espn 1">
+    <title lang="es">Arsenal vs. Leicester City</title>
+  </programme>
+  <programme start="20201025020000 +0200" stop="20201025050000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Serie Mundial de la MLB</title>
+  </programme>
+  <programme start="20201025050000 +0100" stop="20201025080000 +0100" channel="ARG: Espn 1">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201025080000 +0100" stop="20201025100000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Fútbol italiano Serie A</title>
+  </programme>
+  <programme start="20201025110000 +0100" stop="20201025153000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201025153000 +0100" stop="20201025175000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20201025175000 +0100" stop="20201025200000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Fútbol italiano Serie A</title>
+  </programme>
+  <programme start="20201025200000 +0100" stop="20201025203000 +0100" channel="ARG: Espn 1">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201025203000 +0100" stop="20201025224500 +0100" channel="ARG: Espn 1">
+    <title lang="es">Fútbol italiano Serie A</title>
+  </programme>
+  <programme start="20201025224500 +0100" stop="20201026003000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20201026233000 +0100" stop="20201027003000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Roland Garros</title>
+  </programme>
+  <programme start="20201027003000 +0100" stop="20201027010000 +0100" channel="ARG: Espn 1">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201027010000 +0100" stop="20201027043000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Fútbol Americano de la NFL</title>
+  </programme>
+  <programme start="20201027043000 +0100" stop="20201027070000 +0100" channel="ARG: Espn 1">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201027070000 +0100" stop="20201027090000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Fútbol La Liga</title>
+  </programme>
+  <programme start="20201027090000 +0100" stop="20201027100000 +0100" channel="ARG: Espn 1">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201027100000 +0100" stop="20201027120000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Fútbol La Liga</title>
+  </programme>
+  <programme start="20201027120000 +0100" stop="20201027140000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201027140000 +0100" stop="20201027160000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Rugby Union</title>
+  </programme>
+  <programme start="20201027160000 +0100" stop="20201027163000 +0100" channel="ARG: Espn 1">
+    <title lang="es">ESPN Playroom</title>
+  </programme>
+  <programme start="20201027163000 +0100" stop="20201027170000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20201027170000 +0100" stop="20201027173000 +0100" channel="ARG: Espn 1">
+    <title lang="es">ATP World Tour Weekly</title>
+  </programme>
+  <programme start="20201027173000 +0100" stop="20201027193000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20201027193000 +0100" stop="20201027214500 +0100" channel="ARG: Espn 1">
+    <title lang="es">Fútbol italiano Serie A</title>
+  </programme>
+  <programme start="20201027214500 +0100" stop="20201027230000 +0100" channel="ARG: Espn 1">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20201027230000 +0100" stop="20201028000000 +0100" channel="ARG: Espn 1">
+    <title lang="es">#Redes</title>
+  </programme>
+  <programme start="20201028000000 +0100" stop="20201028010000 +0100" channel="ARG: Espn 1">
+    <title lang="es">ESPN en Primera Persona</title>
   </programme>
 </tv>
