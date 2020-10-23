@@ -6,12 +6,12 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="ARG: Fox Sports Premium">
-    <display-name lang="es">ARG: Fox Sports Premium"</display-name>
+    <display-name lang="es">ARG: Fox Sports Premium</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="ARG: Espn 1">
-    <display-name lang="es">ARG: Espn 1"</display-name>
+    <display-name lang="es">ARG: Espn 1</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_sur-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
